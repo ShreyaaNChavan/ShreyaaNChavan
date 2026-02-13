@@ -2,7 +2,7 @@
 ---
 
 ### 🌟 About Me  
-- 🔭 **Currently Working On:**  
+- 🔭 **Currently Working On:**   
   Building innovative **web development projects** with modern tools and technologies.  
 - 👯 **Collaboration:**  
   Open to collaborating on **open source projects**, **hackathons**, and tech ideas.  
