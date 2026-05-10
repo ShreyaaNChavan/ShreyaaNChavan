@@ -1,11 +1,12 @@
+
 <h2 align="left">Hi 👋! My name is Shreya Chavan.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyaanchavan&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyaaNChavan&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaanchavan&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaaNChavan&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -51,7 +52,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:shreyanchavan135@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 
@@ -64,7 +65,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shreyaanchavan/shreyaanchavan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShreyaaNChavan/ShreyaaNChavan/output/snake.svg" alt="Snake animation" />
 
 ###
-```
+
