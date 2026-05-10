@@ -1,9 +1,6 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
-
   workflow_dispatch:
 
 jobs:
@@ -11,14 +8,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake game
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: ShreyaaNChavan
           outputs: dist/snake.svg
 
-      - name: Push snake animation
-        uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
