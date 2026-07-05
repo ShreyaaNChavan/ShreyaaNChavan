@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya Chavan</h1>
+<h1 align="center">Hi, I'm Shreya Chavan</h1>
 <h3 align="center">AI & Data Science Student | Web Developer | Tech Enthusiast</h3>
 
 
