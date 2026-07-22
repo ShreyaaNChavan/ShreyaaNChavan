@@ -68,9 +68,7 @@ AI & Data Science Student • Full Stack Web Developer • Machine Learning Enth
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ShreyaaNChavan&theme=tokyonight&hide_border=true"/>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShreyaaNChavan&theme=highcontrast)](https://git.io/streak-stats)
 </p>
 
 ---
